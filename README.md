@@ -1,1 +1,1 @@
-# Wel come to Kanha Agro Inc.
+# Welcome to Kanha Agro Inc.
