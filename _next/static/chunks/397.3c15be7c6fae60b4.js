@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[397],{3397:function(n,e,i){"use strict";i.r(e),i.d(e,{HomeContainer:function(){return c}});var r=i(5893),t=(i(7294),i(6993)),u=i.n(t),c=function(n){return(0,r.jsx)("div",{className:u().mainContainer,children:"Hello"})}},6993:function(){}}]);
