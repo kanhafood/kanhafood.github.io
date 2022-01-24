@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.def877c0.chunk.css",
-    "main.js": "/static/js/main.4e82ebcd.chunk.js",
-    "main.js.map": "/static/js/main.4e82ebcd.chunk.js.map",
+    "main.js": "/static/js/main.418d4996.chunk.js",
+    "main.js.map": "/static/js/main.418d4996.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8d14773d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8d14773d.js.map",
     "static/css/2.792fcacf.chunk.css": "/static/css/2.792fcacf.chunk.css",
@@ -62,13 +62,13 @@
     "static/media/log-in.svg": "/static/media/log-in.26463742.svg",
     "static/media/login-illustration.39a64f78.svg": "/static/media/login-illustration.39a64f78.svg",
     "static/media/logo-light.d9a5d1b5.svg": "/static/media/logo-light.d9a5d1b5.svg",
+    "static/media/logo.06a83cbe.png": "/static/media/logo.06a83cbe.png",
     "static/media/logo.2c489fc4.svg": "/static/media/logo.2c489fc4.svg",
-    "static/media/logo.b10b4d16.png": "/static/media/logo.b10b4d16.png",
     "static/media/love-illustration.c759090f.svg": "/static/media/love-illustration.c759090f.svg",
     "static/media/map-pin.svg": "/static/media/map-pin.8c41fcd3.svg",
     "static/media/menu.svg": "/static/media/menu.644fa295.svg",
     "static/media/minus.svg": "/static/media/minus.595a628f.svg",
-    "static/media/oneKG.384525de.png": "/static/media/oneKG.384525de.png",
+    "static/media/oneKG.fea13cd2.png": "/static/media/oneKG.fea13cd2.png",
     "static/media/play-circle.svg": "/static/media/play-circle.dcf880c0.svg",
     "static/media/plus.svg": "/static/media/plus.887d2aad.svg",
     "static/media/prototype-illustration.21bc4b3f.svg": "/static/media/prototype-illustration.21bc4b3f.svg",
@@ -99,6 +99,7 @@
     "static/media/team-illustration-2.76aa0427.svg": "/static/media/team-illustration-2.76aa0427.svg",
     "static/media/trending-up.svg": "/static/media/trending-up.ebfe9a72.svg",
     "static/media/twitter-icon.828ecd04.svg": "/static/media/twitter-icon.828ecd04.svg",
+    "static/media/twoKG.7b9700b6.png": "/static/media/twoKG.7b9700b6.png",
     "static/media/user-plus.svg": "/static/media/user-plus.7df9a289.svg",
     "static/media/user.svg": "/static/media/user.780a52a3.svg",
     "static/media/x.svg": "/static/media/x.6c9a4ba7.svg",
@@ -109,6 +110,6 @@
     "static/css/2.792fcacf.chunk.css",
     "static/js/2.2df8dc88.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.4e82ebcd.chunk.js"
+    "static/js/main.418d4996.chunk.js"
   ]
 }
